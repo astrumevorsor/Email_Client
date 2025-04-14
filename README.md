@@ -1,4 +1,4 @@
-# Conference Outreach Automation
+# Social media Outreach Automation
 
 An automated system for conference outreach and organization management.
 
